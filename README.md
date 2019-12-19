@@ -1,6 +1,4 @@
 # Reson
-tes
-selamat malam
 
 Menu malam :
 1. surabi
